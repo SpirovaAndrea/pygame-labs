@@ -1,2 +1,2 @@
-##Notes and solutions Pygame Labs 
+# Notes and solutions Pygame Labs 
 
